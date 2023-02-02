@@ -1,19 +1,17 @@
 CLI: revanced-cli-2.21.0-all.jar  
-Integrations: revanced-integrations-0.93.1.apk  
-Patches: revanced-patches-2.156.0.jar  
+Integrations: revanced-integrations-0.94.1.apk  
+Patches: revanced-patches-2.158.0.jar  
 
-### [2.156.0](https://github.com/revanced/revanced-patches/compare/v2.155.0...v2.156.0) (2023-01-17)
+### [2.158.0](https://github.com/revanced/revanced-patches/compare/v2.157.0...v2.158.0) (2023-01-29)
 ### Bug Fixes
-* **reddit/general-reddit-ads:** specify last version that works correctly ([#1495](https://github.com/revanced/revanced-patches/issues/1495)) ([2a3bedd](https://github.com/revanced/revanced-patches/commit/2a3bedd5608d2f23b174c4227ac167e44e54215e))
+* **youtube/microg-support:** replace new permission ([3d1cce5](https://github.com/revanced/revanced-patches/commit/3d1cce5b4ca54c622b863f24febeb03a6060033c))
+* **youtube:** resolve duplicate preference keys ([#1550](https://github.com/revanced/revanced-patches/issues/1550)) ([aafdb89](https://github.com/revanced/revanced-patches/commit/aafdb891b2f0f243cb2d997a38ab3e6a7b46aba8))
 ### Features
-* explain how to capture crash logs [skip ci] ([f938ba8](https://github.com/revanced/revanced-patches/commit/f938ba81ec98f06f508dbdceeabd29a0ea7bf1af))
-* **id-austria:** `remove-root-detection` patch ([3cf77cd](https://github.com/revanced/revanced-patches/commit/3cf77cdb4ebbd128d29eedefa1ee35289e3c8058))
-* **id-austria:** `spoof-signature` patch ([355a847](https://github.com/revanced/revanced-patches/commit/355a847b1ccd69c4ab2c356395c97b4871e53f1f))
-* **nova-launcher:** `unlock-prime` patch ([#1463](https://github.com/revanced/revanced-patches/issues/1463)) ([cf710b2](https://github.com/revanced/revanced-patches/commit/cf710b27740cce4b9a0fbdf03a494eb8c65246da))
+* **irplus:** `remove-ads` patch ([#1554](https://github.com/revanced/revanced-patches/issues/1554)) ([9943a52](https://github.com/revanced/revanced-patches/commit/9943a520d29ee89598b4aa6aba69ff83cb4768ce))
 
   
 **App Versions:**  
-YouTube: 17.49.37  
+YouTube: 18.03.36  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
