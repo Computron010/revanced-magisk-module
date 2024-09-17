@@ -1,3 +1,5 @@
+Instagram: 349.0.0.39.104  
+GooglePhotos: 6.99.0.675197313  
 YouTube-Extended: 19.16.39  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
